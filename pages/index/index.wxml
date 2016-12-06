@@ -1,0 +1,13 @@
+<view>
+<swiper indicator-dots="true" autoplay="true">
+  <swiper-item catchtap="goToTopic" id="123">
+    <image src="http://placekitten.com/500/300" class="slide-image"></image>
+  </swiper-item>
+    <swiper-item catchtap="goToTopic" id="456">
+    <image src="http://placekitten.com/500/300" class="slide-image"></image>
+  </swiper-item>
+    <swiper-item catchtap="goToTopic" id="789">
+    <image src="http://placekitten.com/500/300" class="slide-image"></image>
+  </swiper-item>
+</swiper>
+</view>

@@ -1,0 +1,18 @@
+<view class="userinfo p15">
+<text>用户名</text>
+<text>$1</text>
+</view>
+<view class="question p15">
+<text>这个是问题描述</text>
+</view>
+<view class="answer">
+    <image src="http://placekitten.com/300/300" class="user-avatar"></image>
+    <view class="answer-voice">点击播放</view>
+</view>
+<view class="replyer">
+    <image src="http://placekitten.com/300/300" class="user-avatar"></image>
+    <view class="replyer-info">这个是个人介绍</view>
+</view>
+<view class="other">
+    <button size="default">赞赏</button>
+</view>
